@@ -1,6 +1,6 @@
-# Dapr C# Demo App: Random Number Squarer 🎲📐
+# Dapr in Action: A Simple Example to Get You Started 🚀
 
-This repository contains a simple C# demo app that demonstrates the power of Dapr for microservices. The app consists of two ASP.NET Core Web API services and a C# Console App. The first service generates a random number, and the second one squares it. We use Dapr for service invocation and state management.
+This repository contains a simple C# demo app that demonstrates the power of Dapr for microservices ([Blog Post](https://medium.com/p/50209c03c704/edit)). The app consists of two ASP.NET Core Web API services and a C# Console App. The first service generates a random number, and the second one squares it. We use Dapr for service invocation and state management.
 
 ## Prerequisites
 
