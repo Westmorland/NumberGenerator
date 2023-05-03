@@ -16,7 +16,7 @@ This repository contains a simple C# demo app that demonstrates the power of Dap
 ## Getting Started
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/dapr-csharp-demo.git
+git clone https://github.com/Westmorland/NumberGenerator.git
 cd dapr-csharp-demo
 ```
 
