@@ -1,0 +1,1 @@
+dapr run --app-id squaringservice --app-port 7001 dotnet run
