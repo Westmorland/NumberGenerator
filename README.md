@@ -6,6 +6,7 @@ This repository contains a simple C# demo app that demonstrates the power of Dap
 
 - [.NET 7 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
 - [Dapr CLI](https://docs.dapr.io/getting-started/)
+- [Docker](https://docs.docker.com/get-docker/)
 
 ## Project Structure
 
